@@ -77,29 +77,3 @@ ul {
   font-size: 13px;
   text-align: center;
 }
-/* .btn {
-  background: hsl(25, 97%, 53%);
-  background-image: -webkit-linear-gradient(top, #d9d134, #b8b82b);
-  background-image: -moz-linear-gradient(top, #d9d134, #b8b82b);
-  background-image: -ms-linear-gradient(top, #d9d134, #b8b82b);
-  background-image: -o-linear-gradient(top, #d9d134, #b8b82b);
-  background-image: linear-gradient(to bottom, #d9d134, #b8b82b);
-  -webkit-border-radius: 28;
-  -moz-border-radius: 28;
-  border-radius: 28px;
-  font-family: Arial;
-  color: #ffffff;
-  font-size: 20px;
-  padding: 5px 40px 5px 40px;
-  text-decoration: none;
-}
-
-.btn:hover {
-  background: hsl(25, 56%, 71%);
-  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
-  text-decoration: none;
-} */
